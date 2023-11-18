@@ -38,9 +38,9 @@ CLOUD_PLATFORM = "cloudflare"
 # github.com/cloudflare/wrangler2/issues/27
 # developers.cloudflare.com/workers/platform/environments
 #[env.prod]
-name = "basic-unbound"
-minify = true
-routes = [
+#name = "basic-unbound"
+#minify = true
+#routes = [
   ]
 # vars are not inherited
 # workers/platform/environment-variables#environment-variables-via-wrangler
