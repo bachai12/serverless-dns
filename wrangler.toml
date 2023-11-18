@@ -41,8 +41,7 @@ CLOUD_PLATFORM = "cloudflare"
 name = "basic-unbound"
 minify = true
 routes = [
-  https://serverless-dns.bachai0610.workers.dev/*",
-]
+  ]
 # vars are not inherited
 # workers/platform/environment-variables#environment-variables-via-wrangler
 [env.prod.vars]
