@@ -25,7 +25,7 @@ globs = ["**/*.js"]
 
 [vars]
 CF_DNS_RESOLVER_URL = "https://dns.nextdns.io"
-CF_DNS_RESOLVER_URL_2 = "https://dns11.quad9.net/dns-query"
+CF_DNS_RESOLVER_URL_2 = "https://cloudflare-dns.com/dns-query"
 LOG_LEVEL = "debug"
 WORKER_ENV = "development"
 CLOUD_PLATFORM = "cloudflare"
